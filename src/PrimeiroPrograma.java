@@ -3,7 +3,7 @@ package src;
 public class PrimeiroPrograma {
     public static void main(String[] args) {
 
-        Livro livro = new Livro("Jogador Nº 1", 351);
+        Livro livro = new Livro("Jogador Nº 1 ", 351);
         System.out.println(livro);
     }
 }
